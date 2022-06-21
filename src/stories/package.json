@@ -1,0 +1,16 @@
+{
+    "name": "stories",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Button.stories.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@airmiles-ui/button": "1.0.0",
+        "@airmiles-ui/title": "1.0.0"
+    }
+}
